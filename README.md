@@ -73,3 +73,15 @@
 <div align="center">
  <img align="center" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
+
+<br clear="both">
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MaysamMB&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaysamMB&theme=dracula&margin-w=10&margin-h=10" />
+
+</div>
