@@ -44,7 +44,7 @@
 </div>
 
 
-## 📌 Pinned Repositories
+## Repositories
 
 <p align="center">
   <a href="https://github.com/MaysamMB/SkinAura-WebSite-Project">
