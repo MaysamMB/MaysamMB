@@ -72,6 +72,11 @@
 
 <div align="center">
  <img align="center" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <p align="center">
+  <a href="https://www.linkedin.com/in/maysam-baradiya-589757347/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Connect+with+me+on+LinkedIn" />
+  </a>
+</p>
 </div>
 
 <br clear="both">
