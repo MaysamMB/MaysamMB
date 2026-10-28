@@ -38,10 +38,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaysamMB&theme=dracula&show_icons=true" height="150" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MaysamMB&layout=compact&theme=dracula" height="150" />
-</div>
 
 
 ## Repositories
